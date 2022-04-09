@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/AllDeus/E-commerse.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "none",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
