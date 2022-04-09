@@ -20,6 +20,8 @@ npm start
  - DB START 
  - https://drive.google.com/file/d/1zGVXu1mpvhMPj3tNISV6UiBa62LBg609/view
 
+- POST 
+
 - https://drive.google.com/file/d/1lxgOuigRVf1j1T5gKJ6GSns9Ow7l1aAY/view
 
 
