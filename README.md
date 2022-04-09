@@ -1,7 +1,7 @@
 # E-commerse
 
 
--E-Commerce
+- E-Commerce
 Description This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a database and functional backend.
 
 
@@ -15,8 +15,11 @@ Run the following commands;
 npm run seed
 npm start
 
-Documentation DB START https://drive.google.com/file/d/1zGVXu1mpvhMPj3tNISV6UiBa62LBg609/view
+ - Documentation 
+ 
+ - DB START 
+ - https://drive.google.com/file/d/1zGVXu1mpvhMPj3tNISV6UiBa62LBg609/view
 
-https://drive.google.com/file/d/1lxgOuigRVf1j1T5gKJ6GSns9Ow7l1aAY/view
+- https://drive.google.com/file/d/1lxgOuigRVf1j1T5gKJ6GSns9Ow7l1aAY/view
 
-https://drive.google.com/file/d/1i9lD1Z0_vwXHjgliUfLgchAhqWuHhcp7/view
+- https://drive.google.com/file/d/1i9lD1Z0_vwXHjgliUfLgchAhqWuHhcp7/view
